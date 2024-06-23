@@ -27,15 +27,18 @@ This project helps us to get an overview of the field we work or aspire to work 
 - Step 9 : A stacked bar chart is added to the visualization with the job title as legends that represents the current job title of the survey participants.
 ![Jobs Stacked Bar chart](https://github.com/rahulshivanshbagwar/Data_Survey-_PowerBI_Dashboard/assets/173008519/679541b5-f247-4d1c-b15a-b7209278ec66)  
 
-- Step 10 : Then followed by a stacked column chart to represent the programming language used by the professionals
+- Step 10 : Then followed by a stacked column chart to represent the programming language used by the professionals.
+- 
 ![Language Stacked Column Chart](https://github.com/rahulshivanshbagwar/Data_Survey-_PowerBI_Dashboard/assets/173008519/2490d729-e5a8-459f-aa7e-969ab9144cb6)
 
 - Step 11 : A donut chart is added to represent the gender of the survey particpants.
+- 
 ![Gender Donut Chart](https://github.com/rahulshivanshbagwar/Data_Survey-_PowerBI_Dashboard/assets/173008519/0c8814fa-fc4e-4714-8857-d4ab1b618acb)
   
 
 
 - Step 12 : Now add a tree map to navigate the country of origin of the participants.
+- 
 ![Countries treemap](https://github.com/rahulshivanshbagwar/Data_Survey-_PowerBI_Dashboard/assets/173008519/20797bbb-2b8a-444c-b782-cb7004aa8bbd)
 
 - Step 13 : We finish our visualizations by adding to gauge visuals one depicting the satisfactory levels in work life balance on a scale of 1 to 10. And the other gauge visual showing satisfactory level with the current salary.
