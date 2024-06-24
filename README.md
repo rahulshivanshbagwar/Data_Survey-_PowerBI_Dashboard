@@ -1,6 +1,5 @@
 # Data Professional Survey Dashboard
 
-
 ## Problem Statement
 
 This interactive dashboard helps us understand about the individuals working in the data field and how do they find it working  in this industry, we take their opinions about various aspects about  this industry and what are the skills they are using for their profession,their salaries,location and their level of satisfaction in different aspects.
